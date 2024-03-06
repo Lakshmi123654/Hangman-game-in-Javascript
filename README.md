@@ -1,3 +1,3 @@
-# Hangman-game-in-Javascript-
+# Hangman-game-in-Javascript
 
 Have fun with this Hangman Game !!
